@@ -34,7 +34,7 @@ pip install tk
 git clone 
 ```
 ### Gomaster.py
-![Gomaster]( "tool.png")
+![Gomaster](https://github.com/Youssef530245/Gomaster/blob/main/tool.png?raw=true "tool.png")
 
 ### guimaster.py
 ![guimaster]( "guitool.png")
