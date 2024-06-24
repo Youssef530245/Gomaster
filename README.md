@@ -2,14 +2,19 @@
 - Gomaster is tool created with python programming language .
 - this tool can find directories when you input ip and path of directory list to it .
 #### usage
-you can use it in ip machines .
+you can use it in  machines like .
 - ctf machines
 - your own machines
-- other
+- other ip
+
+### Example
+- Enter the ip :  (ip)   like ---> 10.10.84.61
+- Enter the path:  (path of the list) like ---> /usr/share/wordlists/dirctorylist/small.txt     
 
 ## the file of tool has two scripts Gomaster.py and guimaster.py
-- Gomaster.py for run normaly on terminal without gui just command lines 
+- Gomaster.py for run normaly in terminal without gui 
 - guimaster.py this with gui just enter the ip and path of list to the labels in the interface then click start
+
 
 #### to run this tool scripts in your device you need to install some python libraries.
 
