@@ -42,18 +42,18 @@ pip install tk
 ```
 git clone https://github.com/Youssef530245/Gomaster.git
 ```
-### run the tool 
+### to run the tool 
 ```
 python3 Gomaster.py
 ```
-#### run the tool with gui (interface)
-```
-python3 guimaster.py
-```
-
 ### Gomaster.py
 ![Gomaster](https://github.com/Youssef530245/Gomaster/blob/main/tool.png?raw=true "tool.png")
 
+
+#### to run the tool with gui (interface)
+```
+python3 guimaster.py
+```
 ### guimaster.py
 ![guimaster](https://github.com/Youssef530245/Gomaster/blob/main/guitool.png?raw=true "guitool.png")
 
