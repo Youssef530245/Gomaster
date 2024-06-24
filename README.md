@@ -28,7 +28,7 @@ pip install requests
 pip install requests_futures
 ```
 
-##### for banner of tool in the script (Gomaster)
+##### for banner of tool in the script (Gomaster.py)
 ```
 pip install os
 ```
