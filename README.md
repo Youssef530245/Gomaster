@@ -13,7 +13,7 @@
 - guimaster.py this with gui just enter the ip and path of list to the labels in the interface then click start
 
 
-#### to run this tool scripts in your device you need to install some python libraries.
+## to run this tool scripts in your device you need to install some python libraries.
 
 #### run thes commands in your terminal .
 
