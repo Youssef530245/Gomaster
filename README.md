@@ -11,9 +11,9 @@ you can use it in ip machines .
 - Gomaster.py for run normaly on terminal without gui just command lines 
 - guimaster.py this with gui just enter the ip and path of list to the labels in the interface then click start
 
-> to run this tool scripts in your device you need to install some python libraries.
+#### to run this tool scripts in your device you need to install some python libraries.
 
-> run thes commands in your terminal .
+#### run thes commands in your terminal .
 
 ##### for requests function of scripts
 ```
@@ -40,6 +40,15 @@ pip install tk
 ```
 git clone https://github.com/Youssef530245/Gomaster.git
 ```
+### run the tool 
+```
+python3 Gomaster.py
+```
+#### run the tool with gui (interface)
+```
+python3 guimaster.py
+```
+
 ### Gomaster.py
 ![Gomaster](https://github.com/Youssef530245/Gomaster/blob/main/tool.png?raw=true "tool.png")
 
