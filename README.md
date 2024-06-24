@@ -1,6 +1,11 @@
 # Gomaster
-Gomaster is tool created with python programming language .
-this tool can find directories when you input ip and path of directory list to it .
+> Gomaster is tool created with python programming language .
+> this tool can find directories when you input ip and path of directory list to it .
+#### usage
+> you can use it in ip machines 
+>> ctf machines
+>> your own machines
+>> other
 
 ## the file of tool has two scripts Gomaster.py and guimaster.py
 - Gomaster.py for run normaly on terminal without gui just command lines 
@@ -37,7 +42,7 @@ git clone
 ![Gomaster](https://github.com/Youssef530245/Gomaster/blob/main/tool.png?raw=true "tool.png")
 
 ### guimaster.py
-![guimaster]( "guitool.png")
+![guimaster](https://github.com/Youssef530245/Gomaster/blob/main/guitool.png?raw=true "guitool.png")
 
 **i'm Eng:Youssef Mohamed 🌏🌏 would like to thank you about reading**
 
