@@ -51,7 +51,7 @@ def browse_file():
 
 # GUI setup
 root = tk.Tk()
-root.title("Directory Brute-Forcing Tool")
+root.title("Directory B-Forcing Tool (Eng:youssef)")
 
 tk.Label(root, text="IP Address:").grid(row=0, column=0, padx=10, pady=10)
 ip_entry = tk.Entry(root)
