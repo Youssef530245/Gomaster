@@ -26,9 +26,7 @@ pip install requests_futures
 ```
 
 ##### for banner of tool in the script (Gomaster.py)
-```
-pip install os
-```
+
 ```
 pip install pyfiglet
 ```
